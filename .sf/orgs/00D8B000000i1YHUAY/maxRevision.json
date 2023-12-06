@@ -1,0 +1,23 @@
+{
+    "serverMaxRevisionCounter": 4,
+    "sourceMembers": {
+        "Profile__Admin": {
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ApexClass__Sample": {
+            "serverRevisionCounter": 3,
+            "lastRetrievedFromServer": 3,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__SampleTest": {
+            "serverRevisionCounter": 4,
+            "lastRetrievedFromServer": 4,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        }
+    }
+}
